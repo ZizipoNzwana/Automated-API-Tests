@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HFv7pPN45ASUgz0JcHf8xupdjv6ph7Ektm1YEf7t+Zg0LrFoUgSmrx42NUMyvAF0U+cd6uaS2VPsAvLMRfZoJw==",
+  "dgSpecHash": "3wAhldPDPqGo7oEBzjLMYSIviPQy5dHaMfaQ98U80jv2L/bhMQj3e8sRDWsXmqiWrccCfn5EaP3MgIS+146s6Q==",
   "success": true,
   "projectFilePath": "/home/zizipo/Github/Automated-API-Tests/PetStoreTests/PetStoreTests.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "/home/zizipo/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
     "/home/zizipo/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
     "/home/zizipo/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/home/zizipo/.nuget/packages/restsharp/114.1.0/restsharp.114.1.0.nupkg.sha512",
     "/home/zizipo/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
