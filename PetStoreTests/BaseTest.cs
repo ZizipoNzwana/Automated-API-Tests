@@ -1,6 +1,7 @@
+using PetStoreTests;
 using RestSharp;
 
-namespace PetstoreTests;
+namespace PetStoreTests;
 
 public class BaseTest
 {
@@ -11,4 +12,11 @@ public class BaseTest
     {
         client = new RestClient("http://localhost/v2");
     }
+    public Inventory GetInventory()                                                 
+    {
+        var request = new RestRequest("/store/inventory");
+        return client.GetAsync<Inventory>((request)).GetAwaiter().GetResult();      
+    }
+  
 }
+
